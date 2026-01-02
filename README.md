@@ -3,8 +3,6 @@
 This repository contains my current, recruiter-ready resumes for roles across cybersecurity, SOC operations, networking, and IT support.  
 Each resume is tailored to a specific role and aligned with my hands-on labs, certifications, and academic training.
 
-This repository is intended to be a single source of truth for hiring managers and recruiters reviewing my professional experience.
-
 ---
 
 ## Available Resumes
@@ -17,8 +15,8 @@ Focused on:
 - Network security fundamentals
 - Vulnerability analysis
 
-File:
-- `Gregory_Stephens_Cybersecurity_Resume.pdf`
+File:  
+- [Gregory_Stephens_Cybersecurity_Resume.pdf](./Gregory_Stephens_Cybersecurity_Resume.pdf)
 
 ---
 
@@ -30,8 +28,8 @@ Focused on:
 - Security tooling
 - Alert investigation workflows
 
-File:
-- `Gregory_Stephens_SOC_Analyst_Resume.pdf`
+File:  
+- [Gregory_Stephens_SOC_Analyst_Resume.pdf](./Gregory_Stephens_SOC_Analyst_Resume.pdf)
 
 ---
 
@@ -43,8 +41,8 @@ Focused on:
 - Enterprise network design
 - Infrastructure troubleshooting
 
-File:
-- `Gregory_Stephens_Networking_Resume.pdf`
+File:  
+- [Gregory_Stephens_Networking_Resume.pdf](./Gregory_Stephens_Networking_Resume.pdf)
 
 ---
 
@@ -56,43 +54,36 @@ Focused on:
 - Ticketing workflows
 - Customer-facing technical support
 
-File:
-- `Gregory_Stephens_Help_Desk_Resume.pdf`
+File:  
+- [Gregory_Stephens_Help_Desk_Resume.pdf](./Gregory_Stephens_Help_Desk_Resume.pdf)
 
 ---
 
 ## Certifications
 
-All current certifications and specialization certificates are maintained in a dedicated repository:
+All current certifications and specialization certificates are maintained here:
 
-➡️ **Cybersecurity Certifications Repository**  
-https://github.com/gstephens-cyber/cybersecurity-certifications
+- [Cybersecurity Certifications Repository](https://github.com/gstephens-cyber/cybersecurity-certifications)
 
-This includes certifications from:
+This includes certifications and specialization certificates from:
 - EC-Council
 - Google
 - IBM
 - Cisco
 
-Certifications are updated as they are earned to keep this resume pack current and accurate.
-
 ---
 
 ## Supporting Work
 
-Hands-on labs, projects, and technical documentation referenced in these resumes can be found here:
+Hands-on labs and projects referenced in these resumes:
 
-- Cybersecurity Projects:  
-  https://github.com/gstephens-cyber/cybersecurity-projects
-
-- Network Infrastructure Labs:  
-  https://github.com/gstephens-cyber/network-infrastructure-labs
+- [Cybersecurity Projects](https://github.com/gstephens-cyber/cybersecurity-projects)  
+- [Network Infrastructure Labs](https://github.com/gstephens-cyber/network-infrastructure-labs)
 
 ---
 
 ## Notes for Recruiters
 
 - Resumes are tailored by role to reflect relevant skills and experience.
-- All listed certifications and labs are verifiable via linked repositories.
+- Certifications and labs are verifiable via linked repositories.
 - This repository is actively maintained as new experience and certifications are added.
-
