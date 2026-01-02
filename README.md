@@ -1,100 +1,98 @@
-# Gregory Stephens — Resume Pack (2025–2026)
+# Resume Pack
 
-This repository contains my tailored professional resumes for three distinct cybersecurity and IT career tracks.  
-Each resume is optimized for different role types, ensuring clarity and alignment with industry expectations.
+This repository contains my current, recruiter-ready resumes for roles across cybersecurity, SOC operations, networking, and IT support.  
+Each resume is tailored to a specific role and aligned with my hands-on labs, certifications, and academic training.
 
----
-
-## 📄 Available Resumes
-
-### 1. **SOC Analyst Resume**
-**File:** `SOC_Resume_NOV_2025.pdf`  
-Focuses on:
-- SIEM log analysis  
-- Incident triage  
-- Firewall rule management  
-- Authentication monitoring  
-- SOC workflows and blue-team fundamentals  
-
-Designed for:
-- SOC Analyst I  
-- MSSP Analyst  
-- Cybersecurity Analyst (Entry-Level)  
-- Security Operations roles  
+This repository is intended to be a single source of truth for hiring managers and recruiters reviewing my professional experience.
 
 ---
 
-### 2. **Security Administrator / IT Security Technician Resume**
-**File:** `Security Administrator _ IT Security Technician_Resume_NOV_2025.pdf`  
-Focuses on:
-- MFA setup & identity management  
-- Least-privilege access  
-- Workstation hardening  
-- User provisioning & onboarding  
-- Endpoint and IAM security  
+## Available Resumes
 
-Designed for:
-- Security Administrator (Junior)  
-- IT Security Technician  
-- IAM Support Technician  
-- Endpoint Security roles  
+### Cybersecurity / Security Analyst Resume
+Focused on:
+- SOC operations
+- Incident response
+- Threat analysis
+- Network security fundamentals
+- Vulnerability analysis
+
+File:
+- `Gregory_Stephens_Cybersecurity_Resume.pdf`
 
 ---
 
-### 3. **Network Technician / Network Operations Resume**
-**File:** `Network Technician _ Network Operations_Resume_NOV_2025.pdf`  
-Focuses on:
-- VLANs, ACLs, OSPF  
-- DHCP, DNS, NAT  
-- Layer 2/3 switching  
-- Cisco IOS configuration  
-- Packet analysis and troubleshooting  
+### SOC Analyst Resume
+Focused on:
+- SIEM monitoring
+- Log analysis
+- Incident triage
+- Security tooling
+- Alert investigation workflows
 
-Designed for:
-- Network Technician  
-- NOC Technician  
-- MSP Infrastructure Support  
-- IT Infrastructure roles  
+File:
+- `Gregory_Stephens_SOC_Analyst_Resume.pdf`
 
 ---
 
-## 🎓 Certifications & Training (Referenced in Resumes)
-- Google Cybersecurity Professional Certificate  
-- IBM Cybersecurity Analyst Professional Certificate (In Progress)  
-- CompTIA Security+ (Scheduled April 2026)  
-- NAIT — Cybersecurity Post-Diploma Certificate (Apr 2026)
+### Network / Infrastructure Resume
+Focused on:
+- Routing and switching
+- VLANs and segmentation
+- Firewall and ACL configuration
+- Enterprise network design
+- Infrastructure troubleshooting
+
+File:
+- `Gregory_Stephens_Networking_Resume.pdf`
 
 ---
 
-## 🔗 Links
-- **GitHub Portfolio:** https://github.com/gstephens-cyber  
-- **LinkedIn:** https://www.linkedin.com/in/gregorystephens96  
-- **Trinity Systems:** https://www.trinitysystems.ca  
+### Help Desk / IT Support Resume
+Focused on:
+- Tier 1 / Tier 2 support
+- User account management
+- Troubleshooting Windows and Linux systems
+- Ticketing workflows
+- Customer-facing technical support
+
+File:
+- `Gregory_Stephens_Help_Desk_Resume.pdf`
 
 ---
 
-## 📬 Contact
-For professional inquiries:  
-**Email:** gregstephens96@gmail.com
+## Certifications
+
+All current certifications and specialization certificates are maintained in a dedicated repository:
+
+➡️ **Cybersecurity Certifications Repository**  
+https://github.com/gstephens-cyber/cybersecurity-certifications
+
+This includes certifications from:
+- EC-Council
+- Google
+- IBM
+- Cisco
+
+Certifications are updated as they are earned to keep this resume pack current and accurate.
 
 ---
 
-## 🗂 Repository Structure
-/resume-pack/
-│
-├── SOC_Resume_NOV_2025.pdf
-├── Security Administrator _ IT Security Technician_Resume_NOV_2025.pdf
-└── Network Technician _ Network Operations_Resume_NOV_2025.pdf
+## Supporting Work
 
+Hands-on labs, projects, and technical documentation referenced in these resumes can be found here:
+
+- Cybersecurity Projects:  
+  https://github.com/gstephens-cyber/cybersecurity-projects
+
+- Network Infrastructure Labs:  
+  https://github.com/gstephens-cyber/network-infrastructure-labs
 
 ---
 
-## ✔ Notes
-This repository is intended for:
-- Recruiters  
-- Hiring managers  
-- Technical reviewers  
-- Anyone evaluating my background across three aligned IT/cybersecurity paths  
+## Notes for Recruiters
 
-Additional project repositories contain full hands-on labs, documentation, diagrams, and security/networking assignments.
+- Resumes are tailored by role to reflect relevant skills and experience.
+- All listed certifications and labs are verifiable via linked repositories.
+- This repository is actively maintained as new experience and certifications are added.
 
